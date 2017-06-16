@@ -24,5 +24,5 @@ void loop(){
   Serial.print("Pressure:"); Serial.print(pressure); Serial.println(" kPa");
   Serial.print("Velocity:"); Serial.print(velocity); Serial.println(" m/s");
 
-  delay(200);
+  delay(100);
 }
